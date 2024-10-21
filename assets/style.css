@@ -1,0 +1,32 @@
+<style>
+			body {
+				font-family: Arial;
+			}
+			.header {
+				color: white;
+				text-align: center;
+				padding: 20px;
+				background-color: brown;
+			}
+			.sidebar {
+				background-color: gray;
+				height: 500px;
+				width: 20%;
+				float: left;
+				padding: 20px;
+			}
+			.content {
+				height: 500px;
+				width: 60%;
+				float: left;
+				padding: 20px;
+			}
+			.footer {
+				color: white;
+				background-color: brown;
+				color: white;
+				text-align: center;
+				padding: 15px;
+				clear: both;
+			}
+</style>
